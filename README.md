@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I'm Merve, I'm study Business Infomatics in Haliç University
